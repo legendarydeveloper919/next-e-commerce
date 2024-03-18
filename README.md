@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/anilsenay/next-e-commerce">
+  <a href="https://github.com/legendarydeveloper919/next-e-commerce">
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
   </a>
 
@@ -12,11 +12,9 @@
     An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
     <br />
     <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
+    <a href="https://github.com/legendarydeveloper919/next-e-commerce/issues">Report Bug</a>
     ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
+    <a href="https://github.com/legendarydeveloper919/next-e-commerce/issues">Request Feature</a>
   </p>
 </p>
 
@@ -102,7 +100,7 @@ I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9
 2. Clone the repo and change the directory
 
 ```sh
-git clone https://github.com/anilsenay/next-e-commerce.git
+git clone https://github.com/legendarydeveloper919/next-e-commerce.git
 cd next-e-commerce
 ```
 
@@ -177,6 +175,4 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 ## Contact
 
-[@anilsenay](https://twitter.com/anilsenay)
-
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
+Project Link: [https://github.com/legendarydeveloper919/next-e-commerce](https://github.com/legendarydeveloper919/next-e-commerce)
